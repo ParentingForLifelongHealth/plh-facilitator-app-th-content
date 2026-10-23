@@ -12,7 +12,7 @@ config.google_drive = {
 };
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-ph-content.git",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-facilitator-app-th-content.git",
   content_tag_latest: "1.1.1",
 };
 
